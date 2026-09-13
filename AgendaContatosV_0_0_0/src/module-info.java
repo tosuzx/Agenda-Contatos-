@@ -4,5 +4,5 @@
 /**
  * 
  */
-module AgendaContatosV_0_2_0 {
+module AgendaContatosV_0_3_0 {
 }
