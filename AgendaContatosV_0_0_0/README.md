@@ -1,4 +1,4 @@
-$readmeContent = @"
+
 # Agenda de Contatos
 
 Projeto didático desenvolvido em Java para acompanhar a evolução dos conceitos trabalhados na disciplina de Programação Orientada a Objetos.
