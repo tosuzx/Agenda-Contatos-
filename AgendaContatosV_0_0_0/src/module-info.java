@@ -4,6 +4,5 @@
 /**
  * 
  */
-module AgendaContatosV_1_0_0 {
-	requires java.desktop;
+module AgendaContatosV_3_0_0 {
 }
